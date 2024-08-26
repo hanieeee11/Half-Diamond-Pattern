@@ -1,2 +1,2 @@
-# Villaflor_Lab1
+# Half Diamond Pattern
 1st DSA laboratory activity!
