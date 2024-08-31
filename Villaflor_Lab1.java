@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //we should include this for the scanner file, this will allow us to input data.
-public class Main{
+public class Villaflor_Lab1 {
 
     public static void main(String[] args) {
         Scanner number = new Scanner(System.in); // I named the scanner "number" because we will input a number
